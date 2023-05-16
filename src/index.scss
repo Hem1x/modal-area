@@ -11,7 +11,8 @@
   }
   
   h1 {
-    margin: 0;
+    margin-top: 0;
+
   }
   
   .App {
@@ -59,7 +60,7 @@
   .modal {
     background-color: #fff;
     width: 70%;
-    padding: 30px;
+    padding: 20px 30px;
     border-radius: 10px;
     position: absolute;
     left: 50%;
@@ -95,7 +96,6 @@
     .modal {
       opacity: 0;
       visibility: hidden;
-      transform: translate(-50%, -30%);
       transition-delay: 0.2s;
     }
   
