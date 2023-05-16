@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Modal window
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Demonstration
+
+![Animated GIF](asserts/show.gif)
 
 ## Available Scripts
 
